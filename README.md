@@ -206,11 +206,14 @@ df5
 
 ## Encoding.csv :
 
-![image](https://user-images.githubusercontent.com/94165326/166866727-bf60d88a-7165-42f0-8cc8-e4f51fad0a72.png)
-
-![image](https://user-images.githubusercontent.com/94165326/166866734-e57a6b6f-ac9f-4715-84e5-e86d9f61a009.png)
-
-![image](https://user-images.githubusercontent.com/94165326/166866741-55c3a087-f873-4dcc-9aae-f2dae51634f2.png)
+![image](https://user-images.githubusercontent.com/94165326/166867289-f1f90c36-68c8-4d6e-8669-9ffe590f1951.png)
+![image](https://user-images.githubusercontent.com/94165326/166867308-4a715e53-346f-4ac3-819c-62feed7838fa.png)
+![image](https://user-images.githubusercontent.com/94165326/166867322-2efc4aa4-763b-42f8-8b95-84a5e2f6b752.png)
+![image](https://user-images.githubusercontent.com/94165326/166867330-b69e2e96-91dc-4ce7-abef-78261956e596.png)
+![image](https://user-images.githubusercontent.com/94165326/166867343-406a121c-ebfa-4171-9c7b-81ad8dd4abbd.png)
+![image](https://user-images.githubusercontent.com/94165326/166867351-8f234f6f-7684-400f-8445-f42cebffa005.png)
+![image](https://user-images.githubusercontent.com/94165326/166867357-011da489-2081-404e-b5fa-8ebe495dc3f1.png)
+![image](https://user-images.githubusercontent.com/94165326/166867366-8b749c28-093b-41f5-8f8d-ae4358086573.png)
 
 ## Titanic.csv :
 
